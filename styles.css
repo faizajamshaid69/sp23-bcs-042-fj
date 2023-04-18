@@ -1,0 +1,36 @@
+.html{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid rgb(0, 34, 128);
+    padding: 50px;
+    margin: 20px;
+    
+    
+}
+.header{
+    background:#5c755e;
+    height:100px;
+    width:964px;
+    border:solid 2px;
+    border-color: beige;
+    color:white;
+    
+}
+.container{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+.box{
+    background-color: lightgrey;
+    width: 200px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    margin right:12px;
+    height:500px
+
+}
+.
